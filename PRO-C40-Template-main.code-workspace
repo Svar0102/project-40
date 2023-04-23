@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../C37RV_SpeedRacer_StudentActivity-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PRO-C40-Template-main"
+	}
+}
